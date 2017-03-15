@@ -1,0 +1,25 @@
+{
+  "name": "stoty",
+  "version": "1.0.0",
+  "description": "million dollar startup =))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tientoantai/stotyBox.git"
+  },
+  "keywords": [
+    "stoty"
+  ],
+  "author": "tientoantai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tientoantai/stotyBox/issues"
+  },
+  "homepage": "https://github.com/tientoantai/stotyBox#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
