@@ -1,4 +1,4 @@
- Created by .ignore support plugin (hsz.mobi)
+# Created by .ignore support plugin (hsz.mobi)
 ### Node template
 # Logs
 logs
@@ -38,5 +38,9 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+<<<<<<< HEAD
 .idea
 
+=======
+.idea
+>>>>>>> b885d3f8f10f96238bfcb82ba68e409800f20de5
